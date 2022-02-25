@@ -625,6 +625,17 @@
   margin-bottom: 2.4rem;
 }
 
+.tel-icon:link,
+.tel-icon:visited {
+  color: #767676;
+  font-size: 1.6rem;
+}
+
+.tel-icon:hover,
+.tel-icon:active {
+  color: #555;
+}
+
 .footer-heading {
   font-size: 1.8rem;
   font-weight: 500;
