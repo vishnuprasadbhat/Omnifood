@@ -131,7 +131,7 @@ Privacy & terms
 
 ##########
 
-## Sections
+## Sections (Design Phase)
 
 - Logo + Navigation
 - Hero
